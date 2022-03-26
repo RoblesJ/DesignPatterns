@@ -1,4 +1,7 @@
 This is a compilation of design patterns showing some useful implementations.
+This is in format html, after downloading the zip open the .html file inside for a better experience.
+If you wish to test the code it was coded to be used on an IDE like VSCODE, for playground some modifications are necessary.
+
 
 Table of contents:
 
